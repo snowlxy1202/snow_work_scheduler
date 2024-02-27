@@ -18,5 +18,5 @@ WHEN I refresh the page
 THEN the saved events persist
 
 # Github Repository
-
+https://github.com/snowlxy1202/snow_work_scheduler
 # Deployement URL
