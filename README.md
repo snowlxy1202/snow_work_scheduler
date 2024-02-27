@@ -20,3 +20,4 @@ THEN the saved events persist
 # Github Repository
 https://github.com/snowlxy1202/snow_work_scheduler
 # Deployement URL
+https://snowlxy1202.github.io/snow_work_scheduler/
